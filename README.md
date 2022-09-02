@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himashawijewickrama" alt="himashawijewickrama" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack Web Development**
+- 🌱 I’m currently learning **MERN Stack Web Development** and **Cloud Computing**
 
 - 📫 How to reach me **himashawije5678@gmail.com**
 
