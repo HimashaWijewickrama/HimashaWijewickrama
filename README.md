@@ -11,8 +11,6 @@
 
 <!-- - 🌱 I’m currently learning **MERN Stack Web Development** and **.NET** -->
 
-- 📫 How to reach me **himashawije5678@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/HimashaWije" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himashawije" height="30" width="40" /></a>
