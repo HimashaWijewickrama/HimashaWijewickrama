@@ -32,4 +32,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himashawijewickrama&show_icons=true&locale=en" alt="himashawijewickrama" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himashawijewickrama&" alt="himashawijewickrama" /></p>
+<!-- <p> -->
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himashawijewickrama&" alt="himashawijewickrama" /> -->
+<!-- </p> -->
