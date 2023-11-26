@@ -3,20 +3,6 @@
 <h5 align="left">😊 An undergraduate at Sri Lanka Institute of Information Technology(SLIIT)</h5>
 <h5 align="left">👩‍💻 Work with React and Java based frameworks</h5>
 
-<p align="center" width="100%">
-<!-- <img align="center" alt="Coding" width="400"  src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966"> -->
-</p>
-
-
-<p align="left"> 
-<!--   <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=himashawijewickrama" alt="himashawijewickrama" />
-</a>  -->
-
-</p>
-
-<!-- - 🌱 I’m currently learning **MERN Stack Web Development** and **.NET** -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:himashawije5678@gmail.com" target="blank"><img align="center" src="https://github.com/HimashaWijewickrama/Tour_Buddy_Web/blob/main/gmail_logo.svg" alt="himashawije" height="25" width="35" /></a>
