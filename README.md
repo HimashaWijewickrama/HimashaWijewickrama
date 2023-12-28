@@ -3,13 +3,13 @@
 <h5 align="left">😊 An undergraduate at Sri Lanka Institute of Information Technology (SLIIT)</h5>
 <h5 align="left">👩‍💻 Work with React and Java based frameworks</h5>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:himashawije5678@gmail.com" target="blank"><img align="center" src="https://github.com/HimashaWijewickrama/Tour_Buddy_Web/blob/main/gmail_logo.svg" alt="himashawije" height="25" width="35" /></a>
+<!-- <h3 align="left">Connect with me:</h3> -->
+<!-- <p align="left"> -->
+<!-- <a href="mailto:himashawije5678@gmail.com" target="blank"><img align="center" src="https://github.com/HimashaWijewickrama/Tour_Buddy_Web/blob/main/gmail_logo.svg" alt="himashawije" height="25" width="35" /></a> -->
 <!-- <a href="https://www.hackerrank.com/HimashaWije" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himashawije" height="30" width="40" /></a> -->
 <!-- <a href="https://www.discordapp.com/users/9432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="himashawije" height="20" width="30" /></a> -->
-<a href="https://www.linkedin.com/in/himashawije" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himashawije" height="20" width="30" /></a>
-</p>
+<!-- <a href="https://www.linkedin.com/in/himashawije" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himashawije" height="20" width="30" /></a>
+</p> -->
 
 <h3 align="left">
 <!--   Languages and Tools: -->
