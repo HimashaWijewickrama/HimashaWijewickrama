@@ -1,6 +1,6 @@
 <h1 align="center">Hey there!👋</h1>
-<h5 align="left">🚀 I'm Himasha Wijewickrama</h5>
-<h5 align="left">😊 An undergraduate at Sri Lanka Institute of Information Technology (SLIIT)</h5>
+<!-- <h5 align="left">🚀 I'm Himasha Wijewickrama</h5> -->
+<!-- <h5 align="left">😊 An undergraduate at Sri Lanka Institute of Information Technology (SLIIT)</h5> -->
 <!-- <h5 align="left">👩‍💻 Work with React and Java based frameworks</h5> -->
 
 <!-- <h3 align="left">Connect with me:</h3> -->
