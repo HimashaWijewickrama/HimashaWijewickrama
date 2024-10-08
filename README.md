@@ -12,7 +12,10 @@
 <p>🌱 I’m currently learning PHP Laravel and Java Springboot</p>
 </li>
 <li>
-<p>💬 Ask me about Sql, Java, React, JavaScript, Typescript</p>
+<p>💬 Ask me about Sql, Java, React, JavaScript and Typescript</p>
+</li>
+<li>
+<p>👉 Follow me on Medium, LinkedIn and GitHub</p>
 </li>
 <li>
 <p>⚡ Fun fact: Programmer's nightmare: "Unexpected '}' on line 32"</p>
