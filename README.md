@@ -5,7 +5,7 @@
 
 <div size="20px"> Hi! My name is Himasha. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
-<h2> About Me <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3puZGF4cnh3b2F3amNwZHhnMmU3NjUwemlsNWVpeDh1ZDVqMTVubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HEPwfdu6T6svpPE1eN/giphy.gif" width="64px"></h2>
+<h2> About Me <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3puZGF4cnh3b2F3amNwZHhnMmU3NjUwemlsNWVpeDh1ZDVqMTVubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HEPwfdu6T6svpPE1eN/giphy.gif" width="100px"></h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 <ul>
 <li>
