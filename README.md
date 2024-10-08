@@ -5,7 +5,7 @@
 
 <div size="20px"> Hi! My name is Himasha. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
-<h2> About Me <img src="https://giphy.com/stickers/socialmedia-webdesign-formusdigital-HEPwfdu6T6svpPE1eN" width="32px"></h2>
+<h2> About Me <div style="width:100%;height:0;padding-bottom:81%;position:relative;"><iframe src="https://giphy.com/embed/CAIgh8LKFbIciGx5Qe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/jr-justrocket-justrocketteam-CAIgh8LKFbIciGx5Qe">via GIPHY</a></p></h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 <ul>
 <li>
