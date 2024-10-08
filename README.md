@@ -60,7 +60,7 @@
 
 
 
-<table><thead><tr><th><img src="https://github-readme-stats.vercel.app/api?username=HimashaWijewickrama&amp;show_icons=true&amp;theme=midnight-purple" alt="Himasha's github stats"></th><th><img src="https://github-readme-streak-stats.herokuapp.com/?user=HimashaWijewickrama&amp;theme=midnight-purple" alt="Himasha's GitHub Streak"></th></tr></thead><tbody><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashaWijewickrama&amp;theme=midnight-purple" alt="Top Langs"></td><td><img src="https://github-readme-stats.vercel.app/api?username=HimashaWijewickrama&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=midnight-purple" alt="Github Stars"></td></tr></tbody></table>
+<table><thead><tr><th><img src="https://github-readme-stats.vercel.app/api?username=HimashaWijewickrama&amp;show_icons=true&amp;theme=transparent" alt="Himasha's github stats"></th><th><img src="https://github-readme-streak-stats.herokuapp.com/?user=HimashaWijewickrama&amp;theme=transparent" alt="Himasha's GitHub Streak"></th></tr></thead><tbody><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashaWijewickrama&amp;theme=midnight-purple" alt="Top Langs"></td><td><img src="https://github-readme-stats.vercel.app/api?username=HimashaWijewickrama&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=midnight-purple" alt="Github Stars"></td></tr></tbody></table>
 
 <br>
 <hr>
