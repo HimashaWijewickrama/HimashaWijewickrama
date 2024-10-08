@@ -8,15 +8,9 @@
 <h2> About Me </h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 <ul>
-<!-- <li>
-<p>🔭 I’m currently working on </p>
-</li> -->
 <li>
 <p>🌱 I’m currently learning PHP Laravel and Java Springboot</p>
 </li>
-<!-- <li>
-<p>👯 I’m looking to collaborate on Proyectos</p>
-</li> -->
 <li>
 <p>💬 Ask me about Sql, Java, React, JavaScript, Typescript</p>
 </li>
