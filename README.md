@@ -35,6 +35,7 @@
 <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=git&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg"> </a>
 <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=postman&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg"> </a>
 <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=php&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg"> </a>
+<br>
 <h2> Connect with me </h2>
 <a href="https://www.linkedin.com/in/himashawije"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a> 
 <a href="https://medium.com/@himashawije"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"></a> 
