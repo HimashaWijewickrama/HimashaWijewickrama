@@ -1,37 +1,69 @@
-<h1 align="center">Hey there!👋</h1>
-<!-- <h5 align="left">🚀 I'm Himasha Wijewickrama</h5> -->
-<!-- <h5 align="left">😊 An undergraduate at Sri Lanka Institute of Information Technology (SLIIT)</h5> -->
-<!-- <h5 align="left">👩‍💻 Work with React and Java based frameworks</h5> -->
+  <p align="center">
+    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+</p>
+<h1> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<p align="center">
+</p>
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664" alt="Profile views">
+<a href="https://github.com/Aditya664"><img src="https://img.shields.io/github/followers/Aditya664?label=Follow&amp;style=social" alt="Github"></a></p>
+<div size="20px"> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
+<h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" width="100px"></h2>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+<ul>
+<li>
+<p>🔭 I’m currently working on  Soy Estudiante</p>
+</li>
+<li>
+<p>🌱 I’m currently learning Git, Java y GitHub</p>
+</li>
+<li>
+<p>👯 I’m looking to collaborate on Proyectos</p>
+</li>
+<li>
+<p>💬 Ask me about Sql, Java, C#, JavaScript</p>
+</li>
+<li>
+<p>⚡ Fun fact: Me gustan los girasoles.</p>
+</li>
+</ul>
+<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=reactjs&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=scikit&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=c&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=cpp&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=sqlite&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=pytorch&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=css&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=html&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=android&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=csharp&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg"> </a>
+<h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
+<a href="https://www.linkedin.com/in/aditya-deshmukh-561a371a8"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a> 
+<a href="https://www.twitter.com/NoobCoder07"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"></a> 
+<a href="https://medium.com/@adityadeshmukh7350"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"></a> 
+<a href="http://aditya664.me/"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"></a> 
+<a href="https://www.github.com/Aditya664"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
+<br>
+<br>
+  <br>
+<p><a href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=Aditya664&amp;theme=tokyonight" alt="Aditya's GitHub Activity Graph"></a></p>
 
-<!-- <h3 align="left">Connect with me:</h3> -->
-<!-- <p align="left"> -->
-<!-- <a href="mailto:himashawije5678@gmail.com" target="blank"><img align="center" src="https://github.com/HimashaWijewickrama/Tour_Buddy_Web/blob/main/gmail_logo.svg" alt="himashawije" height="25" width="35" /></a> -->
-<!-- <a href="https://www.hackerrank.com/HimashaWije" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himashawije" height="30" width="40" /></a> -->
-<!-- <a href="https://www.discordapp.com/users/9432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="himashawije" height="20" width="30" /></a> -->
-<!-- <a href="https://www.linkedin.com/in/himashawije" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himashawije" height="20" width="30" /></a>
-</p> -->
-
-
-<!--   Languages and Tools: -->
-
-<!-- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>  -->
-<!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"></a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>  -->
 
 
 
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himashawijewickrama&show_icons=true&locale=en&layout=compact" alt="himashawijewickrama" /> -->
 
 
+
+
+
+
+
+
+
+<table><thead><tr><th><img src="https://github-readme-stats.vercel.app/api?username=Aditya664&amp;show_icons=true&amp;theme=tokyonight" alt="Aditya's github stats"></th><th><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&amp;theme=tokyonight" alt="Aditya GitHub Streak"></th></tr></thead><tbody><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&amp;theme=tokyonight" alt="Top Langs"></td><td><img src="https://github-readme-stats.vercel.app/api?username=Aditya664&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=tokyonight" alt="Github Stars"></td></tr></tbody></table>
+<p><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></p>
+<br>
+<hr>
