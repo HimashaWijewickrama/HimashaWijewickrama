@@ -18,7 +18,6 @@
 <p>⚡ Fun fact: Programmer's nightmare: "Unexpected '}' on line 32"</p>
 </li>
 </ul>
-<!-- https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif -->
 <h2> Skills <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZiM255Zzhkb2xzaHVobHlteXo3aDkxd2Y0N2sxY21xeWQ2d28xdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAIgh8LKFbIciGx5Qe/giphy.gif" width="100px"></h2>
 <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=html&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </a>
 <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=reactjs&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"> </a>
@@ -38,7 +37,7 @@
 <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=php&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg"> </a>
 <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=azure&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg"> </a>
 <br>
-<h2> Connect with me <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Y4ZzNxN2QyNm05NGl2YjN1MmU4aW9zOXN3andkcGJrZGVhZWhoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/IPhL5ZvzvcGVWml71R/giphy.gif" width="100px"></h2>
+<h2> Connect with me <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtiM3Q1em5nZ2N0bjByMnl0YXhwN2p0azdndmNvMjA4eWY0dzExMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hu9xj9UtxpoY3oytsh/giphy.gif" width="100px"></h2>
 <a href="https://www.linkedin.com/in/himashawije"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a> 
 <a href="https://medium.com/@himashawije"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"></a> 
 <a href="https://www.github.com/HimashaWijewickrama"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
