@@ -18,7 +18,7 @@
 <p>👉 Follow me on Medium, LinkedIn and GitHub</p>
 </li>
 <li>
-<p>⚡ Fun fact: 
+<p>⚡ Fun fact: <br/>
   Programmer's nightmare: "Unexpected '}' on line 32" ☠️</p>
 </li>
 </ul>
