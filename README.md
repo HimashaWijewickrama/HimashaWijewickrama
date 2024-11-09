@@ -44,8 +44,8 @@
 <br>
 <h2> Connect with me <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtiM3Q1em5nZ2N0bjByMnl0YXhwN2p0azdndmNvMjA4eWY0dzExMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hu9xj9UtxpoY3oytsh/giphy.gif" width="80px"></h2>
 <a href="https://www.linkedin.com/in/himashawije"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"> </a> 
-<a href="https://medium.com/@himashawije"> <img width="32px" src="https://www.svgrepo.com/show/394277/medium.svg"></a> 
-<a href="https://www.github.com/HimashaWijewickrama"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
+<a href="https://medium.com/@himashawije"> <img width="32px" src="https://www.svgrepo.com/show/394277/medium.svg"> </a> 
+<a href="https://www.github.com/HimashaWijewickrama"> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"> </a>
 <br>
 <br>
 
