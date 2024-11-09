@@ -18,7 +18,8 @@
 <p>👉 Follow me on Medium, LinkedIn and GitHub</p>
 </li>
 <li>
-<p>⚡ Fun fact: Programmer's nightmare: "Unexpected '}' on line 32"</p>
+<p>⚡ Fun fact: 
+  Programmer's nightmare: "Unexpected '}' on line 32" ☠️</p>
 </li>
 </ul>
 <h2> Skills <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZiM255Zzhkb2xzaHVobHlteXo3aDkxd2Y0N2sxY21xeWQ2d28xdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAIgh8LKFbIciGx5Qe/giphy.gif" width="100px"></h2>
