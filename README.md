@@ -1,4 +1,4 @@
-
+<!--
 <h1> Howdy &lt; Devs/ &gt;! Welcome To My GitHub ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
 </p>
@@ -48,7 +48,9 @@
 <a href="https://www.github.com/HimashaWijewickrama"> <img width="30px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"> </a>
 <br>
 <br>
-
+<br>
+<hr>
+-->
 
 
 
@@ -65,5 +67,3 @@
 <table><thead><tr><th><img src="https://github-readme-stats.vercel.app/api?username=HimashaWijewickrama&amp;show_icons=true&amp;theme=dark" alt="Himasha's github stats"></th><th><img src="https://github-readme-streak-stats.herokuapp.com/?user=HimashaWijewickrama&amp;theme=dark" alt="Himasha's GitHub Streak"></th></tr></thead><tbody><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashaWijewickrama&amp;theme=dark" alt="Top Langs"></td><td><img src="https://github-readme-stats.vercel.app/api?username=HimashaWijewickrama&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=dark" alt="Github Stars"></td></tr></tbody></table>
 -->
 
-<br>
-<hr>
