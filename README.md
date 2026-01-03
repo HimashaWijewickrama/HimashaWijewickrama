@@ -1,5 +1,5 @@
 
-# Hallo, Welocme to my GitHub account ! 🦕
+# Hallo, Welcome to my GitHub account ! 🦕
 
 
 <!--
