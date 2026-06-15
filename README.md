@@ -1,6 +1,8 @@
 
 # Hallo, welcome to my GitHub account ! 🦕
 
+[![An image of @himashawijewickrama2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himashawijewickrama2)](https://holopin.io/@himashawijewickrama2)
+
 
 <!--
 <h1> Howdy &lt; Devs/ &gt;! Welcome To My GitHub ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
