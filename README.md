@@ -1,7 +1,7 @@
 
 # Hey, welcome! 🦖
 
-Just a developer learning, coding, and figuring things out as I go. ✨
+Just a developer learning, coding, and figuring things out. ✨
 <!--
 [![An image of @himashawijewickrama2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himashawijewickrama2)](https://holopin.io/@himashawijewickrama2)
 -->
